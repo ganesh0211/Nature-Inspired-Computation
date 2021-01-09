@@ -1,4 +1,4 @@
-# Travelling-thief-problem
+# TTP
 
 Problem Statement and data file: 
 https://cs.adelaide.edu.au/~optlog/TTP2017Comp/
